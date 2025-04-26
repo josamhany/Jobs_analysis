@@ -145,5 +145,5 @@ Top 10 Most In-Demand Skills
 
 This project provides a comprehensive analysis of the Egyptian job market by scraping, cleaning, and analyzing job listings from Wuzzuf. The insights derived from this project can help job seekers, recruiters, and businesses understand job trends, skill demands, and workplace preferences.
 
-(linkedIn post)[https://www.linkedin.com/posts/josam-hany-76b449301_python-datascience-webscraping-activity-7321942489945309185-Qm0O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0hRQMBJwwXzE_2WIlbIlC2-W8nTypJdkU]
-(Wuzzuf)[https://wuzzuf.net/jobs/egypt]
+[linkedIn post](https://www.linkedin.com/posts/josam-hany-76b449301_python-datascience-webscraping-activity-7321942489945309185-Qm0O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0hRQMBJwwXzE_2WIlbIlC2-W8nTypJdkU)
+[Wuzzuf](https://wuzzuf.net/jobs/egypt)
